@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 
-DATA_PATH = Path("data/shipment_delays.csv")
+DATA_PATH = Path("data/raw/shipment_delays.csv")
 
 
 def main() -> None:

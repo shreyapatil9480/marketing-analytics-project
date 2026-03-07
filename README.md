@@ -1,7 +1,3 @@
-[![Python CI](https://github.com/shreyapatil9480/marketing-analytics-project/actions/workflows/python-ci.yml/badge.svg)](https://github.com/shreyapatil9480/marketing-analytics-project/actions/workflows/python-ci.yml)
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC)
-
 # Marketing Analytics Project
 
 What drives logistics delivery delays?
@@ -16,7 +12,7 @@ What drives logistics delivery delays?
 
 ## Dataset
 
-Primary file: `data/shipment_delays.csv`  
+Primary file: `data/raw/shipment_delays.csv`  
 Target variable: `delayed`
 
 ## Getting Started
@@ -26,14 +22,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/eda.ipynb
 ```
 
-
-
-## Testing
-
-```bash
-pip install -r requirements.txt
-pytest tests/ --cov=src
-```
 
 ## Next Steps
 
