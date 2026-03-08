@@ -22,7 +22,6 @@ pip install -r requirements.txt
 jupyter notebook notebooks/eda.ipynb
 ```
 
-
 ## Next Steps
 
 Collect A/B test results and compare channel lift.
