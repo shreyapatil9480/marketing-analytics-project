@@ -24,7 +24,7 @@ jupyter notebook notebooks/eda.ipynb
 
 ## Next Steps
 
-Collect A/B test results and compare channel lift.
+**Done.** A/B channel lift analysis is implemented — see ### Implemented below.
 
 ---
 *Analytics portfolio project — 2025-07*
